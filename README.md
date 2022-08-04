@@ -25,4 +25,5 @@ Para fins de estudo resolvi complicar um pouco mais a criação, levando em cont
 ## Stack utilizada
 
 **Back-end:** .NET 6, EFCore
+
 **Cloud:** Azure

@@ -1,0 +1,12 @@
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\bin\Debug\net6.0\Grimorium.Infra.IoC.deps.json
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\bin\Debug\net6.0\Grimorium.Infra.IoC.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\bin\Debug\net6.0\Grimorium.Infra.IoC.pdb
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\Grimorium.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\Grimorium.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\Grimorium.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\Grimorium.Infra.IoC.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\Grimorium.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\Grimorium.Infra.IoC.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\refint\Grimorium.Infra.IoC.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\Grimorium.Infra.IoC.pdb
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.IoC\obj\Debug\net6.0\ref\Grimorium.Infra.IoC.dll

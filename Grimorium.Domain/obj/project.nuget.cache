@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZnnVKUwfJVrtLiaQqpRXePx+gYX20DehQEJiztJxU8WKn9ErZEYBTeM0RwEUhEX5jeDgLk1rwVKVhFjBNwlGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonardo\\source\\repos\\ApiGrimorium\\Grimorium.Domain\\Grimorium.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

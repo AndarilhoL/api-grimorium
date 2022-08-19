@@ -1,0 +1,12 @@
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\bin\Debug\net6.0\Grimorium.Infra.Data.deps.json
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\bin\Debug\net6.0\Grimorium.Infra.Data.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\bin\Debug\net6.0\Grimorium.Infra.Data.pdb
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\Grimorium.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\Grimorium.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\Grimorium.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\Grimorium.Infra.Data.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\Grimorium.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\Grimorium.Infra.Data.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\refint\Grimorium.Infra.Data.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\Grimorium.Infra.Data.pdb
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Infra.Data\obj\Debug\net6.0\ref\Grimorium.Infra.Data.dll

@@ -1,0 +1,12 @@
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\bin\Debug\net6.0\CardService.ApiGrimorium.deps.json
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\bin\Debug\net6.0\CardService.ApiGrimorium.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\bin\Debug\net6.0\CardService.ApiGrimorium.pdb
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\CardService.ApiGrimorium.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\CardService.ApiGrimorium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\CardService.ApiGrimorium.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\CardService.ApiGrimorium.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\CardService.ApiGrimorium.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\CardService.ApiGrimorium.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\refint\CardService.ApiGrimorium.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\CardService.ApiGrimorium.pdb
+C:\Users\Leonardo\source\repos\ApiGrimorium\CardService.ApiGrimorium\obj\Debug\net6.0\ref\CardService.ApiGrimorium.dll

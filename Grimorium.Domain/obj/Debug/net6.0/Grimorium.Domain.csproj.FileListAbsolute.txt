@@ -1,0 +1,12 @@
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\bin\Debug\net6.0\Grimorium.Domain.deps.json
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\bin\Debug\net6.0\Grimorium.Domain.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\bin\Debug\net6.0\Grimorium.Domain.pdb
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\Grimorium.Domain.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\Grimorium.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\Grimorium.Domain.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\Grimorium.Domain.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\Grimorium.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\Grimorium.Domain.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\refint\Grimorium.Domain.dll
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\Grimorium.Domain.pdb
+C:\Users\Leonardo\source\repos\ApiGrimorium\Grimorium.Domain\obj\Debug\net6.0\ref\Grimorium.Domain.dll

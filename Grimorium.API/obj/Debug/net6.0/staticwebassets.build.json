@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B4Ui5xAyvva6kDQFtcPrYB7NDGCviIkJ5dqqkpJt4K8=",
+  "Source": "Grimorium.API",
+  "BasePath": "_content/Grimorium.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
